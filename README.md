@@ -89,7 +89,9 @@ AI-powered cooking assistant or chatbot
 
 📸 Output
 
-"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-15 201625.png"
+<img width="949" height="397" alt="Screenshot 2025-07-15 201625" src="https://github.com/user-attachments/assets/8eeb0f5e-abb5-40c9-bc11-481b8af46f96" />
+
+
 
 
 📌 Contact Details
