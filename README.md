@@ -87,7 +87,9 @@ Integration with smart kitchen devices
 
 AI-powered cooking assistant or chatbot
 
+📸 Output
 
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-15 201625.png"
 
 
 📌 Contact Details
