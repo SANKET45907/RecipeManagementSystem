@@ -86,3 +86,11 @@ Voice command for hands-free cooking
 Integration with smart kitchen devices
 
 AI-powered cooking assistant or chatbot
+
+
+
+
+📌 Contact Details
+Sanket Aswale
+
+Someshwar Hokarne
