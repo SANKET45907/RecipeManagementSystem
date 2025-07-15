@@ -87,6 +87,24 @@ Integration with smart kitchen devices
 
 AI-powered cooking assistant or chatbot
 
+# Databasa table Schema
+
+#Table: 'recipes'
+| Column        | Type         |
+|---------------|------------------ |
+| id            | int (Primary Key) |    
+| name          | varchar           |
+| description   | varchar           |
+| instructions  | text              |
+
+#Table: 'ingredients'
+| Column        | Type             |
+|---------------|------------------|
+| id            | int (Primary Key)|
+| name          | varchar          |
+| recipe_id     | int (FK)         |
+
+
 📸 Output
 
 <img width="949" height="397" alt="Screenshot 2025-07-15 201625" src="https://github.com/user-attachments/assets/8eeb0f5e-abb5-40c9-bc11-481b8af46f96" />
